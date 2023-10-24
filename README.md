@@ -1,0 +1,2 @@
+A 3D spur gear from Fusion 360 is a spur gear that is designed and created using the Fusion 360 CAD software. Fusion 360 is a powerful CAD software that allows users to create 3D models of a wide variety of products, including gears.
+3D spur gears from Fusion 360 can be made from a variety of materials, including plastic, metal, and ceramic. They can be made with simple or complex geometries, and they can be customized to meet the specific needs of an application.
